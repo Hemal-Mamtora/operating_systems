@@ -10,3 +10,6 @@
 [submodule "page_replacement"]
 	path = page_replacement
 	url = https://github.com/Hemal-Mamtora/page_replacement.git
+[submodule "producer_consumer"]
+	path = producer_consumer
+	url = https://github.com/Hemal-Mamtora/producer_consumer.git
