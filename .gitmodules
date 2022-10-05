@@ -1,0 +1,9 @@
+[submodule "paging_2"]
+	path = paging_2
+	url = https://github.com/Hemal-Mamtora/paging_2.git
+[submodule "disk_scheduling"]
+	path = disk_scheduling
+	url = https://github.com/Hemal-Mamtora/disk_scheduling
+[submodule "stat"]
+	path = stat
+	url = https://github.com/Hemal-Mamtora/stat
