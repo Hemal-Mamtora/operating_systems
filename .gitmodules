@@ -7,3 +7,6 @@
 [submodule "stat"]
 	path = stat
 	url = https://github.com/Hemal-Mamtora/stat
+[submodule "page_replacement"]
+	path = page_replacement
+	url = https://github.com/Hemal-Mamtora/page_replacement.git
